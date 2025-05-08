@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ECS-TXO-20CSMV4-520-AN-TR")(type "KiCad")(uri "${KIPRJMOD}/components/ECS-TXO-20CSMV4-520-AN-TR/ECS-TXO-20CSMV4-520-AN-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/components/E22-900M30S/E22-900M30S.kicad_sym")(options "")(descr ""))
+)

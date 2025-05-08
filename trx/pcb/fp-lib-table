@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ECS-TXO-20CSMV4")(type "KiCad")(uri "${KIPRJMOD}/components/ECS-TXO-20CSMV4-520-AN-TR")(options "")(descr ""))
+  (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/components/E22-900M30S")(options "")(descr ""))
+)
