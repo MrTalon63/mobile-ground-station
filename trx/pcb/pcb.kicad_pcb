@@ -127,7 +127,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -9227,7 +9226,7 @@
 		(descr "QFN16(H=0.6mm)")
 		(tags "Integrated Circuit")
 		(property "Reference" "U5"
-			(at 0 0 90)
+			(at 1.2 3.5 0)
 			(layer "F.SilkS")
 			(uuid "4fa07473-97d2-40ac-b210-9a661bca94f9")
 			(effects
@@ -13337,7 +13336,7 @@
 		(descr "QFN 4x4 Package Outline Drawing")
 		(tags "Integrated Circuit")
 		(property "Reference" "U4"
-			(at 0 0 0)
+			(at 3.65 -2.7 0)
 			(layer "F.SilkS")
 			(uuid "c4c3f123-9b0e-4462-9a62-01fbc7dddc89")
 			(effects
@@ -18345,6 +18344,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "VEXT\n"
+		(at 136 105 270)
+		(layer "F.SilkS" knockout)
+		(uuid "cbd59fa5-1966-4cde-88d0-56b6ae2f52be")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
